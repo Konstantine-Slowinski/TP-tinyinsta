@@ -23,6 +23,7 @@ Task 1: Concurrency Benchmark
 | 1000  | 302ms    | 2   | 1      | 20           |
 | 1000  | 344ms    | 3   | 1      | 20           |
 
+![App Screenshot](/TEST1.jpeg)
 
 
 Conclusion : Cela démontre l’élasticité de GCP. 
